@@ -4,7 +4,7 @@
   justify-content: space-between;
   margin: 3.5rem 0;
   padding-bottom: 1rem;
-  border-bottom: 1px solid var(--white);
+  border-bottom: 1px solid var(--gray);
   font-weight: 500;
 }
 
