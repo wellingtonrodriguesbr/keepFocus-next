@@ -6,11 +6,13 @@
 }
 
 :root {
-  --background: #252526;
-  --content: #2e2e2f;
-  --white: #dcdde0;
+  --background: #f2f3f5;
+  --content: #ffffff;
+  --blue-dark: #2e384d;
+  --blue: #5965e0;
   --green: #4cd62b;
   --red: #e83f5b;
+  --gray: #dcdde0;
 }
 
 @media (max-width: 1080px) {
