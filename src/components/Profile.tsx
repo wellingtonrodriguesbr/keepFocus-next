@@ -10,7 +10,7 @@ export function Profile() {
       <div>
         <strong>Wellington Rodrigues</strong>
         <p>
-          <img src="icons/level.svg" alt="Seta verde apontando para cima" />
+          <img src="icons/level.svg" alt="Seta roxa apontando para cima" />
           Level 1
         </p>
       </div>
