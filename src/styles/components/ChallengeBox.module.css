@@ -28,12 +28,13 @@
   align-items: center;
   gap: 1rem;
   line-height: 1.7;
-  text-align: left;
+  text-align: center;
   margin-top: 2rem;
 }
 
-.challengeNotActive p img {
-  width: 40px;
+.challengeNotActive img {
+  width: 100px;
+  padding-bottom: 2rem;
 }
 
 .challengeActive {
