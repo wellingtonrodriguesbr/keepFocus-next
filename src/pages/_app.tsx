@@ -1,4 +1,4 @@
-import { ChallengesProvider } from "../context/ChallengeContext";
+import { ChallengesProvider } from "../context/ChallengesContext";
 import "../styles/global.css";
 
 function MyApp({ Component, pageProps }) {
