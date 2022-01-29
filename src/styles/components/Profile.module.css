@@ -1,6 +1,9 @@
 .profileContainer {
   display: flex;
   align-items: center;
+  background-color: var(--content);
+  padding: 2rem 1.5rem;
+  border-radius: 4px 4px 0 0;
 }
 
 .profileContainer img {
@@ -16,7 +19,7 @@
 .profileContainer div strong {
   font-size: 1.5rem;
   font-weight: 600;
-  color: var(--white);
+  color: var(--gray);
 }
 
 .profileContainer div p {

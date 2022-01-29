@@ -5,11 +5,12 @@
 }
 
 :root {
-  --background: #252526;
-  --content: #2e2e2f;
-  --white: #dcdde0;
-  --green: #4cd62b;
-  --red: #e83f5b;
+  --background: #111111;
+  --content: #222222;
+  --blue: #7928ca;
+  --red: #ff0080;
+  --gray: #dcdde0;
+  --linear: linear-gradient(90deg, #aa58fc 20%, #7928ca 60%, #3f007e 100%);
 }
 
 @media (max-width: 1080px) {
@@ -27,7 +28,7 @@
 body {
   background-color: var(--background);
   font-family: "Inter", sans-serif;
-  color: var(--white);
+  color: var(--gray);
 }
 
 body,
