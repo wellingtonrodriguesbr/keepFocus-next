@@ -6,7 +6,7 @@ export function Profile() {
   const { level } = useContext(ChallengesContext);
   return (
     <div className={styles.profileContainer}>
-      <img src="/icons/eye-profile.svg" alt="Imagem de perfil do usuário" />
+      <img src="/icons/eye.svg" alt="Imagem de perfil do usuário" />
       <div>
         <strong>Mantenha o foco</strong>
         <p>
